@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://envs.sh/TME.jpg" alt="VJ-Filter-Bot Logo">
+  <img src="https://envs.sh/rDg.jpg" alt="Rkmovieszip Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  Rkmovieszip 
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+RK+Filter+Bot!)
 </p>
 
 ## Main Feature 
@@ -35,9 +35,9 @@
 
 - Note : You Can Turn On Or Off Every Feature, Just Use Which Feature You Want By Turning It On.
 
-Join My <a href='https://telegram.dog/vj_botz'>Update Channel</a> For More Update Regarding Repo.</b>
+Join My <a href='https://telegram.dog/rkmovieszip'>Update Channel</a> For More Update Regarding Repo.</b>
 
-### How To Deploy : [Video Tutorial](https://youtu.be/3SJR7vH2kRo)
+### How To Deploy : [Video Tutorial](https://youtu.be)
 
 ## Commands
 ```
@@ -192,7 +192,7 @@ Edit info.py with variables as given below then run bot
 
 ## Note 🏷️
  
-[![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/KingVJ01) 
+[![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/looterekrish) 
 
 <b>Fork The Repo And Edit As Per Your Needs.</b>
 
