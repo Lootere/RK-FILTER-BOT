@@ -160,8 +160,8 @@ PING_INTERVAL = int(environ.get("PING_INTERVAL", "1200"))  # 20 minutes
 if 'DYNO' in environ:
     ON_HEROKU = True
 else:
-    ON_HEROKU = True
-URL = environ.get("URL", "https://loose-delphine-rohanworld-2382af7d.koyeb.app/")
+    ON_HEROKU = False
+URL = environ.get("URL", "https://content-marianna-rohanworld-0c9c115e.koyeb.app/")
 
 
 # Rename Info : If True Then Bot Rename File Else Not
